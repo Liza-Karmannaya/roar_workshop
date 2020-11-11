@@ -55,3 +55,5 @@ Both the duration of eruptions and waiting time show a bimodal distribution. In 
 plot(df$eruptions, df$waiting)
 ```
 Eruptions duration and waiting time seem to be strongly correlated, and bimodally distributed. 
+
+Just adding a bit more text
