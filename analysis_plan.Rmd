@@ -1,5 +1,5 @@
 ---
-title: "Analysis Plan"
+title: "Old Faithful Analysis Plan"
 author: "Rob Arbon"
 date: "09/11/2020"
 output: pdf_document
